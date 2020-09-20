@@ -1,4 +1,4 @@
-# Skills <hr/>
+# Skills
 * ### kotlin
 * ### mvvm
 * ### rxKotlin
